@@ -1,3 +1,16 @@
 * {
 font-family: sans-serif;
 }
+
+body {
+  width:80%;
+}
+
+div.header h4 {
+  display: inline-block;
+  float: left;
+}
+
+div.header nav {
+  float: right;
+}
