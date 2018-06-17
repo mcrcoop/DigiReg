@@ -7,7 +7,7 @@ body {
 }
 
 div.header h4 {
-  display: inline-block;
+  display: inline;
   float: left;
 }
 
