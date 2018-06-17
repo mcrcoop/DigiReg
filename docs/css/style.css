@@ -4,6 +4,7 @@ font-family: sans-serif;
 
 body {
   width:80%;
+  nargin: auto;
 }
 
 div.header h4 {
