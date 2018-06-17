@@ -1,6 +1,7 @@
 function includeHTML() {
   var z, i, elmnt, file, xhttp;
-  z = document.getElementsByTagName("*");
+  //z = document.getElementsByTagName("*");
+  z = document.querySelectorAll('[include-html]');
   for (i = 0; i < z.length; i++) {
     elmnt = z[i];
     file = elmnt.getAttribute("include-html");
