@@ -9,7 +9,7 @@ function includeHTML() {
       xhttp.onreadystatechange = function() {
         if (this.readyState == 4) {
           if (this.status == 200) {elmnt.innerHTML = this.responseText;}
-          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          if (this.status == 404) {elmnt.innerHTML = "Additional content to be included here: please use JavaScript enabled browser.";}
           elmnt.removeAttribute("include-html");
           includeHTML();
         }
