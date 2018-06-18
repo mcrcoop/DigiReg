@@ -17,8 +17,7 @@ div.header span {
 div.header nav {
   display: inline-block;
   float: right;
-  height: 2em;
-  overflow: hidden;
+  overflow: auto;
 }
 
 div.header nav a {
@@ -27,6 +26,7 @@ div.header nav a {
   margin-left: 3px;
   margin-right: 3px;
   border-radius: 5px;
+  height: 2em;
 }
 
 div.header nav a:hover {
