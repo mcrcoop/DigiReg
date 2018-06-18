@@ -34,7 +34,7 @@ div.header nav a:hover {
 
 div.header nav a.current-page {
   background-color: #eee;
-  border-color: #ddd;
+  border-color: #000;
 }
 
 h1 {
