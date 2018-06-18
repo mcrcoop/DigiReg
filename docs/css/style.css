@@ -17,18 +17,19 @@ div.header nav {
   display: inline-block;
   float: right;
   overflow: auto;
+  text-align: center;
 }
 
 div.header nav a {
   text-decoration:none;
-  padding: 5px;
+  padding: 2px;
   margin-left: 3px;
   margin-right: 3px;
-  border-radius: 3px;
+  border-radius: 2px;
 }
 
 div.header nav a:hover {
-  background-color: #ccc;
+  background-color: #ddd;
 }
 
 h1 {
