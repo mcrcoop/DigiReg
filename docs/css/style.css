@@ -9,8 +9,7 @@ body {
 
 div.header {
   top: 0;
-  position: fixed;
-  width: 80%;
+  position: sticky;
   background-color: #fff;
 }
 
@@ -57,7 +56,6 @@ small {
 
 div.footer {
   bottom: 0;
-  position: fixed;
-  width: 80%;
+  position: sticky;
   background-color: #fff;
 }
