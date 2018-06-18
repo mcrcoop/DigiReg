@@ -16,7 +16,6 @@ div.header span {
 div.header nav {
   display: inline-block;
   float: right;
-  overflow: auto;
   text-align: center;
 }
 
