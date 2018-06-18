@@ -18,6 +18,7 @@ div.header nav {
   display: inline-block;
   float: right;
   height: 2em;
+  overflow: auto;
 }
 
 div.header nav a {
