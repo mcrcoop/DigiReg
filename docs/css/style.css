@@ -19,3 +19,15 @@ div.header nav {
   float: right;
   height: 2em;
 }
+
+h1 {
+  text-align: center;
+}
+
+h1 + p {
+  text-align: center;
+}
+
+small {
+  text-align: right;
+}
