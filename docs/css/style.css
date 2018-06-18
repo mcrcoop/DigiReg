@@ -46,7 +46,7 @@ div.header nav a:hover {
 }
 
 div.header nav a.current-page {
-  background-color: #eee;
+  background-color: #eeeeef;
   border:1px solid #000;
 }
 
