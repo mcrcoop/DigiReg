@@ -1,6 +1,9 @@
+html {
+    background-color: #eee;
+}
+
 * {
   font-family: sans-serif;
-  background-color: #eee;
 }
 
 body {
