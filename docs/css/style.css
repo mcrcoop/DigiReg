@@ -10,7 +10,6 @@ body {
 div.header span {
   display: inline-block;
   float: left;
-  height: 2em;
   font-weight: bold;
 }
 
