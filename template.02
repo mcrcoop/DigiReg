@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Digital Single Mark</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<script src="js/script.js"></script>
+</head>
+<body onload="includeHTML()">
+<header include-html="partials/header.html"></header>
+ 
+<main></main>
+
+<footer include-html="partials/footer.html"></footer>
+</body>
+</html>
