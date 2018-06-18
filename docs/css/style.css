@@ -47,6 +47,11 @@ div.header nav a.current-page {
   border:1px solid #000;
 }
 
+div.main {
+  padding-left: 5%;
+  padding-right: 5%
+}
+
 h1 {
   text-align: center;
 }
