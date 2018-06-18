@@ -73,3 +73,16 @@ div.footer {
   width: 80%;
   background-color: #eeeeef;
 }
+
+div.main + h3 + a {
+  border-radius: 4px;
+  color: #000;
+  background: #eeeeef;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+div.main + h3 + a:hover {
+  background: #ccc;
+  text-decoration: none;
+}
