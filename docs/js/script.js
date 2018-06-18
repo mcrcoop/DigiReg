@@ -13,11 +13,11 @@ function includeHTML() {
           if (this.status == 404) {elmnt.innerHTML = "Additional content to be included here: please use JavaScript enabled browser.";}
           elmnt.removeAttribute("include-html");
           includeHTML();
+          currentMenuItem();
         }
       }
       xhttp.open("GET", file, true);
       xhttp.send();
-      currentMenuItem();
       return;
     }
   }
