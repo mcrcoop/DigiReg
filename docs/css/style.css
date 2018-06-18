@@ -25,6 +25,7 @@ div.header nav a {
   padding: 5px;
   margin-left: 3px;
   margin-right: 3px;
+  border-radius: 5px;
 }
 
 div.header nav a:hover {
