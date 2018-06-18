@@ -1,6 +1,10 @@
+html, body {
+    margin: 0;
+    height: 100%;
+}
+
 html {
     background-color: #eee;
-    height: 100%;
 }
 
 * {
@@ -11,7 +15,6 @@ body {
   width: 80%;
   margin: auto;
   background-color: #fff;
-  height: 100%;
 }
 
 div.header {
