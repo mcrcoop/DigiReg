@@ -18,7 +18,7 @@ body {
 div.header {
   top: 0;
   position: sticky;
-  background-color: #fff;
+  background-color: #eeeeef;
 }
 
 div.header span {
@@ -71,5 +71,5 @@ div.footer {
   bottom: 0;
   position: fixed;
   width: 80%;
-  background-color: #fff;
+  background-color: #eeeeef;
 }
