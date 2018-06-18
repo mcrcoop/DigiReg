@@ -20,6 +20,14 @@ div.header nav {
   height: 2em;
 }
 
+div.header nav a {
+  text-decoration:none;
+}
+
+div.header nav a:hover {
+  background-color: #999;
+}
+
 h1 {
   text-align: center;
 }
