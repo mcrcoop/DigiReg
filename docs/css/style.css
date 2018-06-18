@@ -33,7 +33,7 @@ div.header nav a:hover {
 
 div.header nav a.current-page {
   background-color: #eee;
-  border-color: #000;
+  border:1px solid #000;
 }
 
 h1 {
