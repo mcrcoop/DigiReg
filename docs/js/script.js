@@ -23,7 +23,7 @@ function includeHTML() {
 };
 
 function currentMenuItem(){
-  var z = document.querySelector("a[href*='" + location.pathname + "']");
+  var z = document.querySelector('a[href="rights.html"]');
   z.classList.add("current-page");
 }
 currentMenuItem();
