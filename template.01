@@ -8,6 +8,7 @@
 <body onload="includeHTML()">
 <div class="header" include-html="partials/header.html"></div>
  
+<div class="main"></div>
 
 <div class="footer" include-html="partials/footer.html"></div>
 </body>
