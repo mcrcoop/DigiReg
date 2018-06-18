@@ -24,6 +24,6 @@ function includeHTML() {
 };
 
 function currentMenuItem(){
-  var z = document.querySelector('a[href="rights.html"]');
+  var z = document.querySelector('a[href="'+location.pathname+'"]');
   z.classList.add("current-page");
 }
