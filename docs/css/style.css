@@ -74,7 +74,7 @@ div.footer {
   background-color: #eeeeef;
 }
 
-div.main + h3 + a {
+div.main > h3 > a {
   border-radius: 4px;
   color: #000;
   background: #eeeeef;
@@ -82,7 +82,7 @@ div.main + h3 + a {
   text-decoration: none;
 }
 
-div.main + h3 + a:hover {
+div.main > h3 > a:hover {
   background: #ccc;
   text-decoration: none;
 }
