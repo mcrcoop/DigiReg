@@ -10,9 +10,11 @@ body {
 div.header h4 {
   display: inline-block;
   float: left;
+  height: 2em;
 }
 
 div.header nav {
   display: inline-block;
   float: right;
+  height: 2em;
 }
