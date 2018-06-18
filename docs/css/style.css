@@ -32,7 +32,7 @@ div.header nav a:hover {
   background-color: #ddd;
 }
 
-div.header nav a.currentPage {
+div.header nav a.current-page {
   background-color: #eee;
   border-color: #ddd;
 }
