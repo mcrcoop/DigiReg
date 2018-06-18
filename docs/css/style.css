@@ -32,6 +32,11 @@ div.header nav a:hover {
   background-color: #ddd;
 }
 
+div.header nav a.currentPage {
+  background-color: #eee;
+  border-color: #ddd;
+}
+
 h1 {
   text-align: center;
 }
