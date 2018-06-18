@@ -49,7 +49,8 @@ div.header nav a.current-page {
 
 div.main {
   padding-left: 5%;
-  padding-right: 5%
+  padding-right: 5%;
+  height: 100%;
 }
 
 h1 {
