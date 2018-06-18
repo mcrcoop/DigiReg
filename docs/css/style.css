@@ -74,10 +74,15 @@ div.footer {
   background-color: #eeeeef;
 }
 
+div.main > h3 {
+    text-align: center;
+}
+
 div.main > h3 > a {
   border-radius: 4px;
-  color: #000;
+  display:block;
   background: #eeeeef;
+  margin: 20px;
   padding: 10px 20px 10px 20px;
   text-decoration: none;
 }
