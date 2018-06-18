@@ -14,9 +14,10 @@ function includeHTML() {
           elmnt.removeAttribute("include-html");
           includeHTML();
         }
-      }      
+      }
       xhttp.open("GET", file, true);
       xhttp.send();
+      currentMenuItem();
       return;
     }
   }
@@ -26,4 +27,3 @@ function currentMenuItem(){
   var z = document.querySelector('a[href="rights.html"]');
   z.classList.add("current-page");
 }
-currentMenuItem();
