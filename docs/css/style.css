@@ -47,3 +47,9 @@ h1 + p {
 small {
   text-align: right;
 }
+
+div.footer {
+  bottom: 0;
+  position: fixed;
+  width: 80%;
+}
