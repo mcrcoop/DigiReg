@@ -7,7 +7,7 @@ body {
   margin: auto;
 }
 
-div.header h4 {
+div.header p {
   display: inline-block;
   float: left;
   height: 2em;
