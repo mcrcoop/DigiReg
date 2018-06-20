@@ -50,6 +50,12 @@ div.header nav a.current-page {
   border:1px solid #fff;
 }
 
+@media screen and (min-width: 600px) {
+  div.header nav a {
+    display: inline-block;
+  }
+}
+
 div.main {
   padding-left: 5%;
   padding-right: 5%;
